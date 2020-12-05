@@ -1,0 +1,26 @@
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+span.a{
+  cursor: pointer;
+}
+.lazyload{
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.no-highlights{
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
